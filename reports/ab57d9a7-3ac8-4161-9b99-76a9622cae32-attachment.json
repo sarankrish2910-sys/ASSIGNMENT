@@ -1,0 +1,12 @@
+{
+    "id": 13,
+    "name": "Frozen Tops For Kids",
+    "price": "Rs. 278",
+    "brand": "Allen Solly Junior",
+    "category": {
+        "usertype": {
+            "usertype": "Kids"
+        },
+        "category": "Tops & Shirts"
+    }
+}

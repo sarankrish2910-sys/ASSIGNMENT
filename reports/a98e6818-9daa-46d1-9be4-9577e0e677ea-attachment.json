@@ -1,0 +1,12 @@
+{
+    "id": 23,
+    "name": "Sleeveless Unicorn Print Fit & Flare Net Dress - Multi",
+    "price": "Rs. 1100",
+    "brand": "Biba",
+    "category": {
+        "usertype": {
+            "usertype": "Kids"
+        },
+        "category": "Dress"
+    }
+}
