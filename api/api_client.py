@@ -7,10 +7,10 @@ class APIClient:
 
     @staticmethod
     def get_products():
-        """
-        Fetch products list from API.
-        Returns list of products.
-        """
+
+        # Fetch products list from API.
+        # Returns list of products.
+        #
 
         url = f"{APIClient.BASE_URL}/productsList"
 

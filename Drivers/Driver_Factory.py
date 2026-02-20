@@ -1,23 +1,23 @@
-# ===============================
+
 # Required Selenium Imports
-# ===============================
+
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options as ChromeOptions
 from selenium.webdriver.firefox.options import Options as FirefoxOptions
 
-# ===============================
+
 # Config Reader
-# ===============================
+
 
 from utils.config_reader import get_config
 
 
 class DriverFactory:
-    """
-    Creates and returns WebDriver instance
-    based on browser mentioned in config.yaml.
-    """
+
+    # Creates and returns WebDriver instance
+    # based on browser mentioned in config.yaml.
+
 
     @staticmethod
     def get_driver():
